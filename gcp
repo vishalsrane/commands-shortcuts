@@ -1,0 +1,4 @@
+gcloud auth application-default login
+
+set project
+gcloud config set project sre-dev-sandbox
